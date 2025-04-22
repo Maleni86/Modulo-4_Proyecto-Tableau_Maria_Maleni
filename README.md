@@ -80,6 +80,11 @@ Estos dashboards permiten visualizar de manera simple y efectiva:
 
 ✅ Oportunidades de optimización de catálogo.
 
+Aquí podrán encontrar el link del proyecto realizado en Tableau Public:
+
+https://public.tableau.com/views/Netflix12112/Dashboardndice?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 
 ### 💡 Conclusiones:
 
@@ -96,6 +101,9 @@ Estos dashboards permiten visualizar de manera simple y efectiva:
 
 👉 Realizar un webscraping a la web de IMDb para vincular las películas de nuestro dataset con un solo género y el protagonita principal de la película.
 
+👉 Desarrollar un nuevo análisis incluyendo las ganancias de la plataforma por país en función del título, votaciones y clasificación del contenido.
+
+👉 Explorar el comportamiento de la competencia y sus contenidos para realizar comparativas que nos permitan centrarnos en nuestros puntos débiles y así mejorar el ROI por país.
 
 ### ¡Gracias por confiar en nuestro trabajo!
 
